@@ -4,4 +4,4 @@ The following repository contains the solutions to the CodeSignal Interview Prep
 You can find the topics by folders.
 
  1. Dynamic Programming
- 2.  2. Hashing
+ 2. Hashing
